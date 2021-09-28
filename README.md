@@ -1,4 +1,4 @@
-# Fresh CMS theme
+# Krypton CMS theme
 
 ## Preview
 ![Theme](./preview.jpg)
